@@ -1,1 +1,4 @@
-Clase Main
+<h1>Main explicacion</h1>
+El programa es una pokedex que permite al usuario registrar pokémon avistados y capturados. El usuario puede añadir un pokémon avistado, añadir un avistamiento legendario, pasar un pokémon de la lista de avistados a la lista de capturados, y ver las listas de pokémon avistados y capturados. A continuación, se detalla el proceso para realizar cada una de estas acciones:
+
+<br>Añadir un pokémon avistado: para añadir un pokémon avistado, el usuario debe seleccionar la opción "a" del menú e introducir el nombre y tipo del pokémon cuando se le solicite. El programa añadirá automáticamente el pokémon a
